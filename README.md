@@ -9,4 +9,4 @@
 7) Use ./s5_layer2_pool_to_conv_result_five.py to run unpooling algorithm, restore the intermediate adversarial example to the potential rough features. The rough features are stored in the file ./reluplex_to_ae temporarily.
 8) Use ./s6_main_write_layer1_compute_process_six.py to extract the weight parameters of convolution layer, which are stored in the file ./conv_network_simulation. And the calculation of convolution layer is transformed into inequality system.
 9) Use ./z_pulp_application/s7_one_map_81_400_seven.py to call the tool pulp to solve the inequality group. The solution is stored in the file ./z_pulp_application/s7_ae_txt_result_temp/ae_txt_file.txt
-10) Use ./z_pulp_application/s8_print_ae_eight.py to transform the solution to image type, and store in the  folder .z_pulp_application/s8_ae_img_collection/
+10) Use ./z_pulp_application/s8_print_ae_eight.py to transform the solution to image type, and store in the  folder ./z_pulp_application/s8_ae_img_collection/
