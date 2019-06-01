@@ -1,0 +1,158 @@
+
+the original img :
+
+y:[[-1.8869056 -4.7832074 -3.0882134 -2.9704273 -1.63382   -0.9826932
+   6.1931934 -5.371551  -1.7829438 -4.5238743]]
+y_:[6]
+max index:6
+correct_prediction:[ True]
+accuracy:1.0
+
+
+
+----------------- use param file: 0 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 242.0
+
+
+
+----------------- use param file: 1 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 236.0
+
+
+
+----------------- use param file: 2 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 456.355135088
+
+the ae from img :
+
+y:[[-3.1546268 -3.7451854 -1.9327512  1.1268346 -3.8974798  1.4717743
+   1.3884695 -4.2176647 -2.150671  -3.5268235]]
+y_:[6]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 3 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 238.0
+
+
+
+----------------- use param file: 4 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 255.0
+
+
+
+----------------- use param file: 5 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 236.0
+
+
+
+----------------- use param file: 6 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 233.0
+
+
+
+----------------- use param file: 7 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 255.0
+
+
+
+----------------- use param file: 8 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 243.0
+
+
+
+----------------- use param file: 9 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 236.0
+
+
+
+----------------- use param file: 10 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 247.0
+
+
+
+----------------- use param file: 11 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 249.0
+
+
+
+----------------- use param file: 12 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 248.0
+
+
+
+----------------- use param file: 13 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 245.0
+
+
+
+----------------- use param file: 14 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 234.0
+
+
+
+----------------- use param file: 15 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 239.0
+
+
+
+----------------- use param file: 16 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 240.0
+
+
+
+----------------- use param file: 17 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 240.0
+
+
+
+----------------- use param file: 18 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 234.0
+
+
+
+----------------- use param file: 19 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 241.0

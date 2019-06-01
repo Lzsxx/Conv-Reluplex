@@ -1,0 +1,3 @@
+
+correct_prediction: [ True  True  True ...  True  True  True]
+accuracy: 0.9498

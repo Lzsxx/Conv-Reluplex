@@ -1,0 +1,30 @@
+
+the original img :
+
+y:[[-2.8710256  -2.15503    -3.0122442  -5.86458    -2.6221092   2.7282035
+   7.5110745  -8.232661    0.76523256 -7.3722224 ]]
+y_:[6]
+max index:6
+correct_prediction:[ True]
+accuracy:1.0
+
+
+
+----------------- use param file: 0 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 248.0
+
+
+
+----------------- use param file: 1 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 249.0
+
+
+
+----------------- use param file: 2 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 232.0

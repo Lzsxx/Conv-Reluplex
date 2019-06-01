@@ -1,0 +1,203 @@
+
+the original img :
+
+y:[[-13.059619    -3.0109687   -5.0525393    5.412208    -1.4622343
+    1.7979357   -7.3432593   -8.402805     1.2915393   -0.42202148]]
+y_:[3]
+max index:3
+correct_prediction:[ True]
+accuracy:1.0
+
+
+
+----------------- use param file: 0 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 471.9059877260998
+
+the ae from img :
+
+y:[[-12.506758    -3.0696528   -7.0281076    3.3164568   -0.40215892
+    3.4347675   -6.130249    -9.414351     2.26161      0.8804553 ]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 1 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 238.40000000000003
+
+
+
+----------------- use param file: 2 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 246.00000000000003
+
+
+
+----------------- use param file: 3 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 244.00000000000003
+
+
+
+----------------- use param file: 4 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 242.40000000000003
+
+
+
+----------------- use param file: 5 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 254.40000000000003
+
+
+
+----------------- use param file: 6 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 248.40000000000003
+
+
+
+----------------- use param file: 7 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 240.00000000000003
+
+
+
+----------------- use param file: 8 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 229.00000000000003
+
+
+
+----------------- use param file: 9 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 255.40000000000003
+
+
+
+----------------- use param file: 10 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 242.40000000000003
+
+
+
+----------------- use param file: 11 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 519.3133866407002
+
+the ae from img :
+
+y:[[-11.679211   -3.4819221  -6.8741612   3.2570791  -0.8934442   3.3892803
+   -5.4132657  -9.01342     2.0042686   0.4304016]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 12 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 477.19877599809996
+
+the ae from img :
+
+y:[[-11.91659     -3.11786     -6.9786005    3.3240209   -0.9504592
+    3.4288967   -5.6762447   -8.813277     1.9420252    0.46771368]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 13 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 476.2466527658999
+
+the ae from img :
+
+y:[[-11.170155    -3.2824364   -6.730182     3.192463    -1.3202049
+    3.3036265   -5.0455256   -9.026012     1.9977865    0.27147323]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 14 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 465.7900484695002
+
+the ae from img :
+
+y:[[-11.25849     -3.2562478   -7.027186     2.6776028   -0.83550644
+    3.111915    -4.990283    -8.995022     2.1895666    0.47017708]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 15 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 496.9662412899999
+
+the ae from img :
+
+y:[[-11.128149   -3.2753255  -7.1316366   2.735285   -0.7862415   2.841379
+   -5.0417933  -9.208929    2.328114    0.5003371]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 16 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 248.40000000000003
+
+
+
+----------------- use param file: 17 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 238.40000000000003
+
+
+
+----------------- use param file: 18 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 238.80000000000004
+
+
+
+----------------- use param file: 19 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 244.40000000000003

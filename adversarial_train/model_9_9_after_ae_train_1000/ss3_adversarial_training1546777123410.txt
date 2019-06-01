@@ -1,0 +1,41 @@
+
+
+***** before ae training *****
+test loss: 1.0924922
+test acc: 0.0
+
+***** begin ae training *****
+in turn : 0
+train loss:0.12738649183526063
+train acc:0.9595352564102564
+in turn : 0
+test loss:0.2594337811072667
+test acc:0.9861111111111112
+in turn : 1
+train loss:0.11693121860914218
+train acc:0.9637419871794872
+in turn : 1
+test loss:0.18290000160535178
+test acc:0.9895833333333334
+in turn : 2
+train loss:0.11144182977015869
+train acc:0.9652443910256411
+in turn : 2
+test loss:0.14730820970402825
+test acc:0.9930555555555556
+in turn : 3
+train loss:0.10695051573043785
+train acc:0.9671474358974359
+in turn : 3
+test loss:0.1223773103621271
+test acc:1.0
+in turn : 4
+train loss:0.10310509427187917
+train acc:0.9685496794871795
+in turn : 4
+test loss:0.1057809591293335
+test acc:1.0
+
+***** after ae training *****
+test loss: 0.104207665
+test acc: 1.0

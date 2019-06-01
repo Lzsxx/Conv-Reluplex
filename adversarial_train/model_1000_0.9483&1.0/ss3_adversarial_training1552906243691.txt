@@ -1,0 +1,125 @@
+
+
+***** before ae training *****
+test ae loss: 1.0924922
+test ae acc: 0.0
+test original loss: 0.16599959
+test original acc: 0.9498
+test train loss: 0.15998238
+test train acc: 0.9335
+
+***** begin ae training *****
+in turn : 0
+train loss:0.14536921875737607
+train acc:0.9537
+in turn : 0
+test ae loss:0.12877837154600355
+test ae acc:0.9861111111111112
+in turn : 0
+test original loss:0.17701280332170427
+test original acc:0.9475
+in turn : 1
+train loss:0.13133531785495578
+train acc:0.9581
+in turn : 1
+test ae loss:0.10071681833101644
+test ae acc:0.9930555555555556
+in turn : 1
+test original loss:0.17795756344273686
+test original acc:0.9473
+in turn : 2
+train loss:0.12279952649660408
+train acc:0.9612
+in turn : 2
+test ae loss:0.07939306957026322
+test ae acc:0.9930555555555556
+in turn : 2
+test original loss:0.1825998115317896
+test original acc:0.9466
+in turn : 3
+train loss:0.11655500486847013
+train acc:0.9624
+in turn : 3
+test ae loss:0.06962339931892024
+test ae acc:0.9965277777777778
+in turn : 3
+test original loss:0.1827538999689743
+test original acc:0.9477
+in turn : 4
+train loss:0.11056860727388412
+train acc:0.9645
+in turn : 4
+test ae loss:0.06409926836689313
+test ae acc:0.9930555555555556
+in turn : 4
+test original loss:0.18429884489774703
+test original acc:0.9469
+in turn : 5
+train loss:0.10577684299293906
+train acc:0.9672
+in turn : 5
+test ae loss:0.054717843938204974
+test ae acc:0.9930555555555556
+in turn : 5
+test original loss:0.1828385088313371
+test original acc:0.9481
+in turn : 6
+train loss:0.10121089114174246
+train acc:0.9689
+in turn : 6
+test ae loss:0.04747749771922827
+test ae acc:1.0
+in turn : 6
+test original loss:0.18099646839797498
+test original acc:0.9483
+in turn : 7
+train loss:0.0981312829721719
+train acc:0.97
+in turn : 7
+test ae loss:0.04075324638850159
+test ae acc:1.0
+in turn : 7
+test original loss:0.18274664871813728
+test original acc:0.948
+in turn : 8
+train loss:0.09444499808773399
+train acc:0.9713
+in turn : 8
+test ae loss:0.03705668283833398
+test ae acc:1.0
+in turn : 8
+test original loss:0.1833774179871194
+test original acc:0.9485
+in turn : 9
+train loss:0.09108191705532372
+train acc:0.9723
+in turn : 9
+test ae loss:0.03251348208222124
+test ae acc:1.0
+in turn : 9
+test original loss:0.18806892225909977
+test original acc:0.9483
+
+***** after ae training *****
+test ae loss: 0.031898413
+test ae acc: 1.0
+test original loss: 0.1880689
+test original acc: 0.9483
+
+arr_train_loss:
+0.14536921875737607,  0.13133531785495578,  0.12279952649660408,  0.11655500486847013,  0.11056860727388412,  0.10577684299293906,  0.10121089114174246,  0.0981312829721719,  0.09444499808773399,  0.09108191705532372
+
+arr_test_adv_loss:
+0.12877837154600355,  0.10071681833101644,  0.07939306957026322,  0.06962339931892024,  0.06409926836689313,  0.054717843938204974,  0.04747749771922827,  0.04075324638850159,  0.03705668283833398,  0.03251348208222124
+
+arr_test_original_loss:
+0.17701280332170427,  0.17795756344273686,  0.1825998115317896,  0.1827538999689743,  0.18429884489774703,  0.1828385088313371,  0.18099646839797498,  0.18274664871813728,  0.1833774179871194,  0.18806892225909977
+
+arr_train_acc:
+0.9537,  0.9581,  0.9612,  0.9624,  0.9645,  0.9672,  0.9689,  0.97,  0.9713,  0.9723
+
+arr_test_adv_acc:
+0.9861111111111112,  0.9930555555555556,  0.9930555555555556,  0.9965277777777778,  0.9930555555555556,  0.9930555555555556,  1.0,  1.0,  1.0,  1.0
+
+arr_test_original_acc:
+0.9475,  0.9473,  0.9466,  0.9477,  0.9469,  0.9481,  0.9483,  0.948,  0.9485,  0.9483

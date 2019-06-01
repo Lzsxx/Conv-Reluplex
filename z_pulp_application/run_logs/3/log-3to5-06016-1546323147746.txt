@@ -1,0 +1,230 @@
+
+the original img :
+
+y:[[-10.507495   -2.1962185  -1.318702    6.2790504  -2.1853812   1.1712377
+  -10.8649235  -1.3487444   2.1233501  -3.1844473]]
+y_:[3]
+max index:3
+correct_prediction:[ True]
+accuracy:1.0
+
+
+
+----------------- use param file: 0 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 231.0
+
+
+
+----------------- use param file: 1 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 242.0
+
+
+
+----------------- use param file: 2 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 238.0
+
+
+
+----------------- use param file: 3 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 237.0
+
+
+
+----------------- use param file: 4 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 484.3731528143999
+
+the ae from img :
+
+y:[[-9.509844  -4.5706496 -3.6653616  3.7782106 -1.5829095  3.8960745
+  -8.275404  -2.8643236  2.3057523 -0.8485797]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 5 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 503.18059760350036
+
+the ae from img :
+
+y:[[-9.868897  -4.201482  -3.4870586  3.876532  -0.892512   3.9787896
+  -7.655491  -3.7521045  2.8481798 -1.6729635]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 6 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 247.0
+
+
+
+----------------- use param file: 7 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 241.0
+
+
+
+----------------- use param file: 8 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 245.0
+
+
+
+----------------- use param file: 9 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 244.0
+
+
+
+----------------- use param file: 10 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 241.0
+
+
+
+----------------- use param file: 11 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 469.80721403710015
+
+the ae from img :
+
+y:[[-9.929149  -4.447375  -3.71065    3.5556257 -0.5233311  3.6703851
+  -7.768114  -3.851523   2.6179914 -0.9749059]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 12 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 462.10139415700013
+
+the ae from img :
+
+y:[[-9.986128   -4.258418   -3.7586613   3.4693635  -0.36095136  3.5826595
+  -7.8539114  -3.825249    2.727284   -0.99188834]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 13 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 235.0
+
+
+
+----------------- use param file: 14 -------------------
+status: -1
+LpStatus[status]: Infeasible
+result: 234.0
+
+
+
+----------------- use param file: 15 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 465.17477674219975
+
+the ae from img :
+
+y:[[-8.415087  -4.518957  -3.6394293  3.95673   -2.2079923  4.1448207
+  -7.775856  -4.3065343  3.191812  -1.2397085]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 16 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 476.62415959780003
+
+the ae from img :
+
+y:[[-8.381233  -3.650878  -3.5015275  3.6394238 -1.6374209  3.7409642
+  -7.116189  -4.83757    3.3052783 -1.7229923]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 17 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 488.4636422859698
+
+the ae from img :
+
+y:[[-8.341384  -4.4161406 -3.5246246  3.6233644 -1.5345267  3.7258563
+  -7.096148  -4.3674755  2.9628038 -1.2882684]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 18 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 482.1739373139704
+
+the ae from img :
+
+y:[[-8.423803  -4.0838947 -3.4335213  3.7263522 -1.609168   3.8131673
+  -7.094325  -4.687256   3.143556  -1.608189 ]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
+
+
+
+----------------- use param file: 19 -------------------
+status: 1
+LpStatus[status]: Optimal
+result: 499.4754968800001
+
+the ae from img :
+
+y:[[-8.533792  -4.3692994 -3.7248769  3.5637584 -1.5251409  3.6509023
+  -7.30113   -4.6480613  3.0341873 -1.0941556]]
+y_:[3]
+max index:5
+correct_prediction:[False]
+accuracy:0.0
